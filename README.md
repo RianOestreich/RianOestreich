@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **riangoestreich@gmail.com**
 
-- ⚡ Fun fact **I'm a car and new technologies enthusiast**
+- ⚡ Fun fact **I'm a cars and new technologies enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
