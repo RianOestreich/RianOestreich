@@ -23,3 +23,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rianoestreich&show_icons=true&theme=dark&locale=en" alt="rianoestreich" /></p>
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=riangoestreich)
+
