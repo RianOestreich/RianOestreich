@@ -21,6 +21,6 @@
 
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=riangoestreich&width=840&count=5)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=riangoestreich&width=400&count=5)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=riangoestreich&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color=6bb856&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
