@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rian Gustavo Oestreich</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-- 🌱 I’m currently learning **NodeJS, React, React Native, JavaScript, TypeScript and Python**
+- 🌱 I’m currently learning **C# and Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RianOestreich?tab=repositories](https://github.com/RianOestreich?tab=repositories)
 
